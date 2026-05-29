@@ -1,5 +1,3 @@
 # number-game
-
-THIS GAME IS MADE IN PYTHON 
-
+this code is written in the python programming language 
 
